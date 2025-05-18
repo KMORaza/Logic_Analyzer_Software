@@ -1,4 +1,4 @@
-## Logikanalysator-Software (Logic Analyzer software)
+## Logikanalysator-Software (Logic Analyzer Software)
 
 * Simulates a logic analyzer to capture, display, and analyze digital signals across multiple channels.
 * Generates random square wave signals with a 5% chance of toggling per sample.
